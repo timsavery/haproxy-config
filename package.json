@@ -1,0 +1,7 @@
+{
+  "name": "haproxy-config",
+  "version": "0.0.1",  
+  "dependencies": {    
+    "async": "0.1.22"
+  }
+}
